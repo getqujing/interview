@@ -2,9 +2,17 @@
 
 ## Introduction
 
-Congratulation for you pass the first phase interview! The following tech interview is an opportunity to show how well your programming skills are.
+Thanks for taking time for the tech interview. It is an opportunity to show how well your programming skills and personalities are.
 
-The test is base on some online judge sytem problems like LeetCode or ACM online judge.
+Usually, we have 3 - 4 rounds of interviews here at Dai Ke, which are,
+
+1. Preliminary tech interview (this round, Skype/phone)
+2. Advanced tech interview (1 - 2 rounds, Skype/phone)
+3. Interview with the team (on-site)
+
+In most cases, it takes 2 - 3 weeks for the complete interview process.
+
+The preliminary test is base on some online judge sytem problems like LeetCode or ACM.
 
 ### Requirement
 
@@ -12,6 +20,7 @@ The test is base on some online judge sytem problems like LeetCode or ACM online
 * You can use any programming language during the test, but it should present your algorithm PRECISELY.
 * Please commit all code to github, and send the repository URL back after the test.
 * For every question you complete, the unit tests is REQUIRED.
+* You only have one hour!
 
 ### Our Expectations
 
@@ -27,7 +36,7 @@ Through this programming test, you should be able to demonstrate:
 
 Should you have any questions, shoot us an email any time.
 
-We highly encourage you to do so, even if you needed help solving the problem. Apart from examining your programming skills, we also want to see what it looks like working with you.
+We highly encourage you to do so, even if you needed help solving the problems. Apart from examining your programming skills, we also want to see what it looks like working with you.
 
 ## Questions
 
