@@ -16,21 +16,20 @@ The preliminary test is base on some online judge sytem problems like LeetCode o
 
 ### Requirement
 
-* Write simple function to solve following questions efficiently and correctly.
-* You can use any programming language during the test, but it should present your algorithm PRECISELY.
-* Please commit all code to github, and send the repository URL back after the test.
-* For every question you complete, the unit tests is REQUIRED.
-* You only have one hour!
+* Make your code correct, efficient (in terms of performance), and as simple as possible.
+* Use any programming language of your choice.
+* Please commit your code to Github, and send the repository URL back.
+* For every question you complete, unit test(s) is REQUIRED.
+* You only have one hour! Don't worry, most well-trained developer could do this.
 
 ### Our Expectations
 
 Through this programming test, you should be able to demonstrate:
 
-1. Good understand of the programming you used.
+1. Good understanding of the programming language you use.
 2. Good programming practices. Code quality and maintainability.
-3. Good understand of unit tests.
-2. Apply suitable algorith to solve this questions.
-3. A good result! Our average number of problems solved is about 3. Show how well you can do!
+3. Good understanding of unit tests.
+4. Apply suitable algorithm to solve the questions.
 
 ### Ask for Help
 
