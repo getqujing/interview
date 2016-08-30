@@ -1,4 +1,4 @@
-# Dai Ke tech interview test for front-end engineer
+# Dai Ke tech interview test for front-end engineers
 
 [The Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) is a cellular automaton devised by the British mathematician   John Horton Conway   in 1970.   It is the best-known example of a cellular automaton.
 
