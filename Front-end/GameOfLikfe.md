@@ -5,7 +5,7 @@
 
 ## Task
 
-Implement a demo web app let users can know how the game work. Following are user stories.
+Implement a demo web app that tells a user how the game works. Following are user stories.
 
 1. The board size is 20x20.
 2. Provide 3 buttons which have the following features
