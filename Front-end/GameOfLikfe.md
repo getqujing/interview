@@ -5,10 +5,10 @@
 
 ## Task
 
-Implement a demo web app let users can know how the game work. Following is user stories.
+Implement a demo web app let users can know how the game work. Following are user stories.
 
 1. The board size is 20x20.
-2. Privide 3 button can do following things
+2. Privide 3 buttons can do following features
    3. Reset the board with a random patten
    4. Go to next step
    5. Go to `n` steps
