@@ -17,5 +17,5 @@ Implement a demo web app let users can know how the game work. Following are use
 
 1. Make your code correct, efficient (in terms of performance), and as simple as possible.
 2. Please commit your code to Github, and send the repository URL back.
-3. Implement the demo with `react` and `redux`
-4. Unit tests is `REQUIRED`
+3. Implement the demo with `react` and `redux`.
+4. Unit tests is `REQUIRED`.
