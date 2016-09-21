@@ -20,7 +20,7 @@ The preliminary test is base on some online judge sytem problems like LeetCode o
 * Use any programming language of your choice.
 * Please commit your code to Github, and send the repository URL back.
 * For every question you complete, unit test(s) is REQUIRED.
-* You only have one hour! Don't worry, most well-trained developer could do this.
+* You only have one hour! Don't worry, most well-trained developers could do this.
 
 ### Our Expectations
 
