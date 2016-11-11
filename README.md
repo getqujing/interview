@@ -2,40 +2,40 @@
 
 ## Introduction
 
-Thanks for taking time for the tech interview. It is an opportunity to show how well your programming skills and personalities are.
+Thanks for spending time taking the tech interview. It is an opportunity to show how awesome you are at programming.
 
-Usually, we have 3 - 4 rounds of interviews here at Dai Ke, which are,
+Usually, we have 3 - 4 rounds of interviews:
 
 1. Preliminary tech interview (this round, Skype/phone)
 2. Advanced tech interview (1 - 2 rounds, Skype/phone)
 3. Interview with the team (on-site)
 
-In most cases, it takes 2 - 3 weeks for the complete interview process.
+In most cases, it takes 2 - 3 weeks to complete the process.
 
-The preliminary test is base on some online judge sytem problems like LeetCode or ACM.
+Questions in the preliminary test stem from online judge system platform like LeetCode，or international programming contest like ACM.
 
-### Requirement
+### Requirements
 
-* Make your code correct, efficient (in terms of performance), and as simple as possible.
+* Keep your code neat, concise, and readable.
 * Use any programming language of your choice.
-* Please commit your code to Github, and send the repository URL back.
-* For every question you complete, unit test(s) is REQUIRED.
+* Commit your code to Github, and send the repository URL back.
+* Unit test(s) is REQUIRED for every question.
 * You only have one hour! Don't worry, most well-trained developers could do this.
 
 ### Our Expectations
 
-Through this programming test, you should be able to demonstrate:
+In this programming test, you should demonstrate:
 
 1. Good understanding of the programming language you use.
 2. Good programming practices. Code quality and maintainability.
 3. Good understanding of unit tests.
-4. Apply suitable algorithm to solve the questions.
+4. Good understanding of algorithms.
 
 ### Ask for Help
 
-Should you have any questions, shoot us an email any time.
+Should you have any questions, shoot us an email.
 
-We highly encourage you to do so, even if you needed help solving the problems. Apart from examining your programming skills, we also want to see what it looks like working with you.
+We highly encourage you to do so, even if you need further assistance to overcome these programming hurdles. Apart from examining your programming skills, we also want to see what it looks like to work with you.
 
 ## Questions
 
@@ -69,7 +69,7 @@ Given a board with m by n cells, each cell has an initial state live (1) or dead
 4. Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
 Write a function to compute the next state (after one update) of the board given its current state.
 
-Follow up: 
+Follow up:
 
 - Could you solve it in-place? Remember that the board needs to be updated at the same time: You cannot update some cells first and then use their updated values to update other cells.
 - In this question, we represent the board using a 2D array. In principle, the board is infinite, which would cause problems when the active area encroaches the border of the array. How would you address these problems?
