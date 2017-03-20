@@ -7,10 +7,10 @@
 Implement a demo iOS app that tells a user how the game works. Following are user stories.
 
 1. The board size is 20x20.
-2. Provide 3 buttons which have the following features
-   3. Reset the board with a random patten
-   4. Go to next step
-   5. Go to `n` steps
+2. Provide 3 buttons which have the following features.
+   1. Reset the board with a random patten.
+   2. Go to next step.
+   3. Go to `n` steps.
 
 ## Requirements
 
